@@ -2,7 +2,7 @@
 Bitcoin, Ethereum & Music: The trillema of my life
 
 🔭 Programming since 2012, master in Ethereum, Teacher in AI -
-I gay way more commits in company gits, and private repo!
+Not much to be seen? I gay way more commits in company gits, and private repo ;)
 
 👯 If you want to build on ethereum, connect with me for = Layer 2, scalability, Real use of $ETH.
 
