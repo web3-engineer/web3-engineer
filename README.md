@@ -1,4 +1,4 @@
-### Hi there 👋:alien:
+### Hi there 👋 :alien:
 Bitcoin, Ethereum & Music: The trillema of my life
 
 🔭 Programming since 2012, master in Ethereum, Teacher in AI -
