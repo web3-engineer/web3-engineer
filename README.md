@@ -18,6 +18,7 @@ Graduated in computer engineering📘
 
 💬 Contact me for Layer 2, scalability, privacy, and other simple or advanced EVM stuff.
 
-🤔 Spent 7 years using local IDEs such as Eclipse and Zinjai while working, that's why my Github is a Baby 🤤 
+Pretty active in the Solana, Polkador and other blockchains 
+Best Regards
 
 
