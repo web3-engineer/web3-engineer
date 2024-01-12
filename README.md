@@ -14,9 +14,10 @@ Graduated in computer engineering📘
 
 ![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![image](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-
 🧙‍♂️ I am a fellow magician with great experience with ethereum, where i worked for 2 years. 
 
 💬 Contact me for Layer 2, scalability, privacy, and other simple or advanced EVM stuff.
+
+🤔 Spent 7 years using local IDEs such as Eclipse and Zinjai while working, that's why my Github is a Baby 🤤 
+
 
