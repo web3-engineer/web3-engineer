@@ -1,6 +1,6 @@
 ### Hi there 👋 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
 💻 Proudly a software engineer with 9 years of commercial experience in IT
-![image](https://github-readme-activity-graph.vercel.app/graph?username={HypeBuilder}&theme=react-dark)
+![image](https://github-readme-activity-graph.vercel.app/graph?username=HypeBuilder&theme=react-dark)
 📑 Gist Pin 🔝)
 
 | 5 years in fullstack | 4 years in blockchain🚀|
