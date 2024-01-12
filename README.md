@@ -14,6 +14,6 @@
 
 
 
-🧙‍♂️ If you want to build on ethereum, connect with me for = Layer 2, scalability, Real use of $ETH;🔷
+🧙‍♂️ Great magician experience with ethereum, where i worked for 2 years. 
 
-💬 Researching ZK, AI and green bonds.
+💬 When i'm not coding i am playing guitar and other instruments, creating content and courses. 
