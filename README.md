@@ -1,4 +1,6 @@
-### Hi there 👋 :alien:
+### Hi there 👋 :alien: my name is Don Martinez
+Proudly a software engineer with +10 years of experience in IT, focusing the last 5 years in fullstack projects, and the last 3 years in blockchain space;
+
 Bitcoin, Ethereum & Music: The trillema of my life
 
 🔭 Java, C++, Cairo, JavaScript, Solidity, Python, Rust, React, AI - 
