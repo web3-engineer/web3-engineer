@@ -17,5 +17,6 @@
 
 
 🧙‍♂️ I am a fellow magician with great experience with ethereum, where i worked for 2 years. 
+
 💬 Contact me for Layer 2, scalability, privacy, and other simple or advanced EVM stuff.
 
