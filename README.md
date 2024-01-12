@@ -2,7 +2,7 @@
 💻 Proudly a software engineer with +10 years of commercial experience in IT, 5 years in fullstack, and the last 4 years in blockchain🚀
 📘 Graduated in computer engineering
 
-🤓 I am an Old School dev, used to use eclipse and Zinjai before this so called github 😅 my Certificated Skills 🔭:
+🤓 My Top Certificated Skills ⬇️ 
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
