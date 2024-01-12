@@ -2,6 +2,9 @@
 💻 Proudly a software engineer with 9 years of commercial experience in the Tech Industry
 
 ![image](https://github-readme-activity-graph.vercel.app/graph?username=web3-engineer&theme=react-dark)
+
+![image](hhttps://gists-readme.yizack.com/api?user=web3-engineer)
+
 📑 Gist Pin 🔝)
 
 | 5 years in fullstack | 4 years in blockchain🚀|
