@@ -3,7 +3,7 @@
 
 ![image](https://github-readme-activity-graph.vercel.app/graph?username=web3-engineer&theme=react-dark)
 
-![image](hhttps://gists-readme.yizack.com/api?user=web3-engineer)
+![image](https://gists-readme.yizack.com/api?user=web3-engineer)
 
 📑 Gist Pin 🔝)
 
