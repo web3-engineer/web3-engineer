@@ -3,7 +3,7 @@
 📘 Graduated in computer engineering
 
 🤓 I am an Old School dev, used to use eclipse and Zinjai before this so called github 😅 my main certificated skills are:
-🔭 ![C](https://img.shields.io/badge/c-#000000?style=for-the-badge&logo=Github&logoColor=white) 
+🔭 ![C] https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 
 
 
