@@ -3,7 +3,7 @@
 📘 Graduated in computer engineering
 
 🤓 I am an Old School dev, used to use eclipse and Zinjai before this so called github 😅 my main certificated skills are:
-🔭 ![linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]C, C++, C#, Cairo, Java, Javascript, Kotlin, Python, React, Rust, Solidity, Typescript;
+🔭 ! [LinkedIn] https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white C, C++, C#, Cairo, Java, Javascript, Kotlin, Python, React, Rust, Solidity, Typescript;
 
 🧙‍♂️ If you want to build on ethereum, connect with me for = Layer 2, scalability, Real use of $ETH;🔷
 
