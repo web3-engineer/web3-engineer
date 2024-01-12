@@ -1,5 +1,5 @@
 ### Hi there 👋 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
-💻 Proudly a software engineer with 9 years of commercial experience in Tech Industry
+💻 Proudly a software engineer with 9 years of commercial experience in the Tech Industry
 
 ![image](https://github-readme-activity-graph.vercel.app/graph?username=web3-engineer&theme=react-dark)
 📑 Gist Pin 🔝)
