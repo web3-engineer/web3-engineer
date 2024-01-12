@@ -2,7 +2,7 @@
 💻 Proudly a software engineer with 10 years of commercial experience in IT
 
 | 5 years in fullstack | 4 years in blockchain🚀|
-📘 Graduated in computer engineering
+Graduated in computer engineering📘 
 
 🤓 My Top Certificated Skills ⬇️ 
 
