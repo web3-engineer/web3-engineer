@@ -16,9 +16,9 @@ Graduated in computer engineering📘
 
 🧙‍♂️ I am a fellow magician with great experience with ethereum, where i worked for 2 years. 
 
-💬 Contact me for Layer 2, scalability, privacy, and other simple or advanced EVM stuff.
+💬 Contact me for Layer 2, ZK, scalability and other simple or advanced EVM stuff.
 
-Pretty active in the Solana, Polkador and other blockchains 
+Pretty active in the Solana, Polkadot and other blockchains 
 Best Regards
 
 
