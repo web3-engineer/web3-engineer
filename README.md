@@ -1,4 +1,4 @@
-### Hi there 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
+### 👾 Hi there 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
 💻 Proudly a software engineer with 9 years of commercial experience in the Tech Industry
 
 | 5 years in fullstack | 4 years in blockchain🚀|
