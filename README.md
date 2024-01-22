@@ -3,7 +3,7 @@
 
 | 6 years in fullstack | 4 years in blockchain🚀|
 
-Graduated in energy engineering 📘 Graduating in computer engineering
+Graduated in energy engineering  👨‍🎓 📘 Graduating in computer engineering
 
 🤓 My Top Certificated Skills ⬇️ 
 
