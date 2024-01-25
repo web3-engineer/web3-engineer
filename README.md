@@ -21,8 +21,6 @@ Graduated in energy engineering  👨‍🎓 📘 Graduating in computer enginee
 
 💬 Contact me for Layer 2, ZK, scalability and other simple or advanced EVM stuff.
 
-Pretty active in the Solana, Polkadot and other blockchains 
-
 Best Regards
 
 
