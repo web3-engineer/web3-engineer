@@ -19,7 +19,7 @@ Graduated in energy engineering  👨‍🎓 📘 Graduating in computer enginee
 
 🧙‍♂️ I am a fellow magician with great experience with ethereum, where i worked for 2 years. 
 
-💬 Contact me for Layer 2, ZK, scalabilit and everything related to crypto.
+💬 Contact me for Layer 2, ZK, scalability and everything related to crypto.
 
 Best Regards
 
