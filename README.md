@@ -3,9 +3,9 @@
 
 | 6 years in fullstack | 4 years in blockchain🚀|
 
-Graduated in energy engineering  👨‍🎓 📘 Graduating in computer engineering
+Graduated in energy engineering  👨‍🎓 📘 Mastering in computer engineering
 
-🤓 My Top Certificated Skills ⬇️ 
+🤓 My Certificated Skills ⬇️ 
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
