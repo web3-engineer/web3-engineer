@@ -17,7 +17,7 @@ Graduated in energy engineering  👨‍🎓 📘 Mastering in computer engineer
 
 *And, of course: Node.js !!!
 
-🧙‍♂️ I am a fellow magician with great experience with ethereum, where i worked for 2 years. 
+🧙‍♂️ I am a fellow magician with great experience with ethereum <3 
 
 💬 Contact me for Layer 2, ZK, scalability and everything related to crypto.
 
