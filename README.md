@@ -1,9 +1,7 @@
 ### 👾 Hi there 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
-💻 Proudly a software engineer with 10 years of commercial experience in the IT Industry
+💻 Proudly a nerd in the IT Industry
 
-| 6 years in fullstack | 4 years in blockchain🚀|
-
-Graduated in energy engineering  👨‍🎓 📘 Mastering in computer engineering
+| 4 years in blockchain🚀|
 
 🤓 My Certificated Skills ⬇️ 
 
