@@ -1,4 +1,4 @@
-### 👾 Hi there 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
+### 👾 Hi there 👽 I like building stuff ###
 💻 Proudly a nerd in the IT Industry
 
 🤓 Looks like i have some skills ⬇️ 
