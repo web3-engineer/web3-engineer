@@ -1,9 +1,7 @@
 ### 👾 Hi there 👽 my name is Don Martinez - From 🇧🇷 to the 🌐 ###
 💻 Proudly a nerd in the IT Industry
 
-| 4 years in blockchain🚀|
-
-🤓 My Certificated Skills ⬇️ 
+🤓 Looks like i have some skills ⬇️ 
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
