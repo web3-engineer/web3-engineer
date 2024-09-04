@@ -1,4 +1,4 @@
-### 👾 Hi there 👽 I like building stuff ###
+### 👾 Hello gentleman ###
 💻 Proudly a nerd in the IT Industry
 
 🤓 Main skills ⬇️ 
