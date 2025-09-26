@@ -1,5 +1,5 @@
 ### 👾 Hello gentleman ###
-💻 My Name is Don Martinez , 29 years old, computer engineer.
+💻 My Name is Don Martinez , 29 years old, Data Scientist.
 
 🤓 Certified Advanced skills ⬇️ 
 
