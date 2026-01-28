@@ -1,5 +1,5 @@
 ### 👾 Hello gentleman ###
-💻 29 years old, Computer Engineer and Data Scientist.
+💻 Computer Engineer and Data Scientist.
 
 🤓 Certified Advanced skills ⬇️ 
 
