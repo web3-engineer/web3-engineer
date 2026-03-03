@@ -1,5 +1,7 @@
-### 👾 Hello gentleman ###
-💻 Computer Engineer and Data Scientist.
+### 🏄‍♀️ Hello World ### 👾 Hello Agents ###
+💻 29, Computer Engineer and Data Scientist.
+
++15 commercial tech projects, +200 AI Agents deployed, +75 smart contracts deployed on mainnet.
 
 🤓 Certified Advanced skills ⬇️ 
 
