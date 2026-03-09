@@ -1,6 +1,5 @@
 ### 🏄‍♀️ Hello World ### 👾 Hello Agents ###
 💻 Computer Engineer and Data Scientist.
-I like to play with hardware and software, and sometimes get paid for it.
 
 +15 commercial tech projects and counting /// +200 AI Agents deployed, +75 smart contracts deployed on mainnet.
 
