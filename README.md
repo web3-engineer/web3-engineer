@@ -1,4 +1,4 @@
-### 🏄‍♀️ Hello World ### 👾 Hello Agents ###
+### 🎯 Hello World ### 👾 Hello Agents ###
 💻 Computer Engineer and Data Scientist.
 
 +15 commercial tech projects and counting /// +200 AI Agents deployed, +75 smart contracts deployed on mainnet.
