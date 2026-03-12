@@ -1,7 +1,7 @@
 ### 🎯 Hello World ### 👾 Hello Agents ###
 💻 Computer Engineer and Data Scientist.
 
-what i know is just a small piece of the infinite garden 👁️‍🗨️
+What i know is just a small piece of the infinite garden 👁️‍🗨️
 
 +75 smart contracts deployed on various mainnets ✅
 
