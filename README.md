@@ -1,5 +1,5 @@
 ### 🎯 Hello World ### 👾 Hello Agents ###
-💻 Computer Engineer and Data Scientist.
+💻 Former Electric Engineer 
 
 What i know is just a small piece of the infinite garden 👁️‍🗨️
 
