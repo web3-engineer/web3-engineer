@@ -1,9 +1,9 @@
 ### 🎯 Hello World ### 👾 Hello Agents ###
-💻 Former Electric Engineer 
+💻 Computer Engineer
 
 What i know is just a small piece of the infinite garden 👁️‍🗨️
 
-+75 smart contracts deployed on various mainnets ✅
+Hundreds of smart contracts deployed on various mainnets ✅
 
 Hundreds of AI Agents deployed on the surface and in the deeps 🌊
 
