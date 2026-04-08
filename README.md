@@ -3,9 +3,7 @@
 
 What i know is just a small piece of the infinite garden 👁️‍🗨️
 
-Hundreds of smart contracts deployed on various mainnets ✅
-
-Hundreds of AI Agents deployed on the surface and in the deeps 🌊
+Passions: Math, Engineering, code, Business and music.
 
 
 🤓 Certified Advanced skills ⬇️ 
