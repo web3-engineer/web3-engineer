@@ -1,12 +1,10 @@
 ### 🎯 Hello World ### 👾 Hello Agents ###
-💻 Computer Engineer
+
+💻 Math, Engineering, Code, Business and Music.
 
 What i know is just a small piece of the infinite garden 👁️‍🗨️
 
-Passions: Math, Engineering, code, Business and music.
-
-
-🤓 Certified Advanced skills ⬇️ 
+🤓 Certified skills ⬇️ 
 
  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  
