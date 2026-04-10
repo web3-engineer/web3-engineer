@@ -1,4 +1,4 @@
-### 🎯 Hello World ### 👾 Hello Agents ###
+### 🎯 Hello Human ### 👾 Hello Agents ###
 
 💻 Math, Engineering, Code, Business and Music.
 
